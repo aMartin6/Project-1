@@ -1,1 +1,3 @@
 # Project-1
+
+For this project, I modeled the motion of an anahrmonic oscillator. Specifically, I looked at how the period of an oscillator varies based on the amplitude. I used Romberg integration to do this. I modeled this using various potential functions, including that of a harmonic oscillator, and higher order potential functions such as V(x) = x^4. I plotted both the potential well and the period vs amplitude for each case. I also decided to model the motion of a pendulum. I compared the potential well of a pendulum to the potential well of a harmonic oscillator, and I showed that pendulums are slightly anharmonic at large angles. 
